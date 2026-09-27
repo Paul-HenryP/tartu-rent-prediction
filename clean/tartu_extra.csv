@@ -88,7 +88,7 @@ Price,Size,Rooms,Neighborhood,New_Renovated,Furnished,Balcony_Terrace,Sauna,Park
 350,24.0,1.0,Karlova,1,0,0,0,0
 430,46.0,2.0,Ülejõe,0,0,0,0,0
 400,44.0,2.0,Raadi-Kruusamäe,1,0,0,0,0
-440,17.2,1.0,Apartments at hugo.stay,1,0,0,0,0
+440,17.2,1.0,Kesklinn,1,0,0,0,0
 490,42.0,2.0,Vaksali,1,0,0,0,0
 450,33.4,1.0,Ülejõe,1,0,0,0,0
 425,49.0,2.0,Annelinn,1,0,0,0,0
@@ -153,7 +153,7 @@ Price,Size,Rooms,Neighborhood,New_Renovated,Furnished,Balcony_Terrace,Sauna,Park
 320,33.5,1.0,Ees-Annelinn,0,0,0,0,0
 550,60.9,1.0,Kesklinn,1,0,0,0,0
 650,48.1,2.0,Raadi-Kruusamäe,1,0,0,0,0
-700,65.5,3.0,Taga-Annelinna,1,0,0,0,0
+700,65.5,3.0,Annelinn,1,0,0,0,0
 650,44.0,2.0,Kesklinn,1,0,0,0,0
 230,17.0,1.0,Kesklinn,1,1,0,0,0
 840,110.0,3.0,Kesklinn,0,0,0,1,0
@@ -181,7 +181,7 @@ Price,Size,Rooms,Neighborhood,New_Renovated,Furnished,Balcony_Terrace,Sauna,Park
 400,40.0,2.0,Kesklinn,1,0,0,0,0
 310,31.0,1.0,Annelinn,1,0,1,0,0
 350,30.0,1.0,Ülejõe,0,0,0,0,0
-500,32.4,1.0,Kesklinna piiril,1,0,0,0,0
+500,32.4,1.0,Kesklinn,1,0,0,0,0
 480,40.5,2.0,Kesklinn,1,0,0,0,0
 800,73.4,3.0,Ränilinn,1,0,0,0,0
 525,41.8,2.0,Karlova,1,0,0,0,0
@@ -243,7 +243,7 @@ Price,Size,Rooms,Neighborhood,New_Renovated,Furnished,Balcony_Terrace,Sauna,Park
 450,50.7,2.0,Vaksali,1,0,0,0,0
 520,23.0,1.0,Ülejõe,1,0,0,0,0
 590,66.2,3.0,Annelinn,1,0,0,0,0
-240,12.0,1.0,Ees-Annelinna,1,0,0,0,0
+240,12.0,1.0,Annelinn,1,0,0,0,0
 700,65.0,3.0,Ülejõe,1,0,0,0,0
 290,12.0,1.0,Annelinn,1,0,0,0,0
 480,41.8,2.0,Kesklinn,1,1,0,0,1
@@ -314,7 +314,7 @@ Price,Size,Rooms,Neighborhood,New_Renovated,Furnished,Balcony_Terrace,Sauna,Park
 350,25.0,1.0,Kesklinn,1,0,0,0,0
 495,21.0,1.0,Kesklinn,1,0,0,0,0
 1100,56.6,3.0,Tammelinn,1,1,0,0,0
-520,26.6,1.0,Kesklinna piiril,1,1,0,0,0
+520,26.6,1.0,Kesklinn,1,1,0,0,0
 450,47.1,2.0,Ülejõe,1,0,0,0,0
 100,12.0,1.0,Karlova,1,0,0,0,0
 1200,70.2,3.0,Kesklinn,1,0,0,1,0
@@ -392,7 +392,7 @@ Price,Size,Rooms,Neighborhood,New_Renovated,Furnished,Balcony_Terrace,Sauna,Park
 600,49.2,2.0,Ränilinn,1,1,1,0,0
 690,52.8,3.0,Raadi-Kruusamäe,1,0,0,0,0
 800,35.6,2.0,Vanalinna,1,0,0,0,0
-350,33.5,1.0,Ees-Annelinna,1,0,0,0,0
+350,33.5,1.0,Annelinn,1,0,0,0,0
 400,37.0,1.0,Veeriku,1,0,0,0,0
 260,29.1,2.0,Kaimi,1,0,0,0,0
 600,52.4,3.0,Jaamamõisa,1,0,0,0,0
@@ -470,7 +470,7 @@ Price,Size,Rooms,Neighborhood,New_Renovated,Furnished,Balcony_Terrace,Sauna,Park
 750,53.8,3.0,Annelinn,1,0,0,0,0
 195,12.0,1.0,Ülejõe,1,0,0,0,0
 585,45.2,2.0,Annelinn,1,0,1,0,0
-380,46.2,2.0,Ees-Annelinna,1,0,0,0,0
+380,46.2,2.0,Annelinn,1,0,0,0,0
 500,65.0,3.0,Kesklinn,1,0,0,0,0
 360,16.9,1.0,Kesklinn,1,0,0,0,0
 450,52.5,2.0,Annelinn,1,0,0,0,0
@@ -532,7 +532,7 @@ Price,Size,Rooms,Neighborhood,New_Renovated,Furnished,Balcony_Terrace,Sauna,Park
 480,41.9,2.0,Supilinn,1,0,0,0,0
 280,35.0,3.0,Karlova,0,0,0,0,0
 625,49.9,2.0,Kesklinn,0,0,0,0,0
-440,17.2,1.0,Apartments at hugo.stay,1,0,0,0,0
+440,17.2,1.0,Kesklinn,1,0,0,0,0
 585,46.1,2.0,Annelinn,1,0,0,0,0
 640,50.4,2.0,Raadi-Kruusamäe,1,0,0,0,0
 375,46.0,2.0,Annelinn,1,0,0,0,1

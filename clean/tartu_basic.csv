@@ -88,7 +88,7 @@ Price,Size,Rooms,Neighborhood
 350,24.0,1.0,Karlova
 430,46.0,2.0,Ülejõe
 400,44.0,2.0,Raadi-Kruusamäe
-440,17.2,1.0,Apartments at hugo.stay
+440,17.2,1.0,Kesklinn
 490,42.0,2.0,Vaksali
 450,33.4,1.0,Ülejõe
 425,49.0,2.0,Annelinn
@@ -153,7 +153,7 @@ Price,Size,Rooms,Neighborhood
 320,33.5,1.0,Ees-Annelinn
 550,60.9,1.0,Kesklinn
 650,48.1,2.0,Raadi-Kruusamäe
-700,65.5,3.0,Taga-Annelinna
+700,65.5,3.0,Annelinn
 650,44.0,2.0,Kesklinn
 230,17.0,1.0,Kesklinn
 840,110.0,3.0,Kesklinn
@@ -181,7 +181,7 @@ Price,Size,Rooms,Neighborhood
 400,40.0,2.0,Kesklinn
 310,31.0,1.0,Annelinn
 350,30.0,1.0,Ülejõe
-500,32.4,1.0,Kesklinna piiril
+500,32.4,1.0,Kesklinn
 480,40.5,2.0,Kesklinn
 800,73.4,3.0,Ränilinn
 525,41.8,2.0,Karlova
@@ -243,7 +243,7 @@ Price,Size,Rooms,Neighborhood
 450,50.7,2.0,Vaksali
 520,23.0,1.0,Ülejõe
 590,66.2,3.0,Annelinn
-240,12.0,1.0,Ees-Annelinna
+240,12.0,1.0,Annelinn
 700,65.0,3.0,Ülejõe
 290,12.0,1.0,Annelinn
 480,41.8,2.0,Kesklinn
@@ -314,7 +314,7 @@ Price,Size,Rooms,Neighborhood
 350,25.0,1.0,Kesklinn
 495,21.0,1.0,Kesklinn
 1100,56.6,3.0,Tammelinn
-520,26.6,1.0,Kesklinna piiril
+520,26.6,1.0,Kesklinn
 450,47.1,2.0,Ülejõe
 100,12.0,1.0,Karlova
 1200,70.2,3.0,Kesklinn
@@ -392,7 +392,7 @@ Price,Size,Rooms,Neighborhood
 600,49.2,2.0,Ränilinn
 690,52.8,3.0,Raadi-Kruusamäe
 800,35.6,2.0,Vanalinna
-350,33.5,1.0,Ees-Annelinna
+350,33.5,1.0,Annelinn
 400,37.0,1.0,Veeriku
 260,29.1,2.0,Kaimi
 600,52.4,3.0,Jaamamõisa
@@ -470,7 +470,7 @@ Price,Size,Rooms,Neighborhood
 750,53.8,3.0,Annelinn
 195,12.0,1.0,Ülejõe
 585,45.2,2.0,Annelinn
-380,46.2,2.0,Ees-Annelinna
+380,46.2,2.0,Annelinn
 500,65.0,3.0,Kesklinn
 360,16.9,1.0,Kesklinn
 450,52.5,2.0,Annelinn
@@ -532,7 +532,7 @@ Price,Size,Rooms,Neighborhood
 480,41.9,2.0,Supilinn
 280,35.0,3.0,Karlova
 625,49.9,2.0,Kesklinn
-440,17.2,1.0,Apartments at hugo.stay
+440,17.2,1.0,Kesklinn
 585,46.1,2.0,Annelinn
 640,50.4,2.0,Raadi-Kruusamäe
 375,46.0,2.0,Annelinn
